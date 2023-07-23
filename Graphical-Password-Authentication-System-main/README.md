@@ -110,17 +110,3 @@ Graphical passwords are a more secure alternative to standard text-based passwor
 ### 3: Security Weaknesses:
 There are no major security vulnerabilities. However, our system is limited in scope so there are very small number of options for each module. Such as garbled text has a limited number of pictures to be chosen randomly from. This is not an inherent weakness of the system, as on a larger scale it could be adapted to generate or segment images dynamically and so on. But in the current state of the system, it would be possible for a computer to eventually brute force its way to the solution. 
 
-## Contributors:
-In the end, I'd like to mention my group members who helped me alot in this project. You can find them at:
-
-[Sana Khan](https://github.com/sanaa-khan)
-
-[Wajeeha Malik](https://github.com/wajeehamalik913)
-
-## 📫 Contact Me: 
-<p align="center">
-  <a href="http://www.hxndev.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:chhxnshah@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/HxnDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/hassan-shahzad-2a6617212/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
-</p>
